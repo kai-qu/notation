@@ -28,7 +28,7 @@ This list focuses on notation as "a series or system of written symbols used to 
 ## Themes
 A good notation may:
 * allow us to enumerate objects by serializing them
-* enable us to manipulate objects and perform operations on them easier
+* enable us to manipulate objects and perform operations on them more easily
 * allow searchability
 * encode powerful theorems 
 * make important properties obvious, or encode them 
