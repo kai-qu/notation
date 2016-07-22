@@ -11,7 +11,7 @@ This list focuses on notation as "a series or system of written symbols used to 
 * Wright's talk on [inventing juggling notation](http://relprime.com/theunexpected/) (siteswap) and using it to discover new tricks
 * Conway’s paper on [powerful knot notation](http://www.maths.ed.ac.uk/~aar/papers/conway.pdf) for knot enumeration (more accessible: a [talk](https://www.youtube.com/watch?v=Wahc9Ocka1g) I gave)
 * [bra-ket notation](http://www.physics.umd.edu/courses/Phys374/fall04/files/DiracNotation.pdf) (Dirac notation) in quantum mechanics
-* Knuth's note on on [Iverson’s convention and Stirling numbers](http://www.maa.org/sites/default/files/images/images/upload_library/22/Ford/knuth403-422.pdf)
+* Knuth's note on [Iverson’s convention and Stirling numbers](http://www.maa.org/sites/default/files/images/images/upload_library/22/Ford/knuth403-422.pdf)
 * An [overview](https://link.springer.com/chapter/10.1007%2F978-3-642-41422-0_2) of other good math notation (the equality sign, algebra, variables, dy/dx (debatable), Einstein notation)
 * Sussman’s _[Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/sites/default/files/titles/content/sicm/book-Z-H-5.html)_: a book on physics as function composition and code
 * Iverson's notes on [good mathematical notation design and APL](http://www.eecg.toronto.edu/~jzhu/csc326/readings/iverson.pdf)
@@ -29,7 +29,7 @@ This list focuses on notation as "a series or system of written symbols used to 
 A good notation may:
 * allow us to enumerate objects by serializing them
 * enable us to manipulate objects and perform operations on them easier
-* is searchable
+* allow searchability
 * encode powerful theorems 
 * make important properties obvious, or encode them 
 * encourage us to predict and invent new things
@@ -57,7 +57,7 @@ _(10:13-15:50)_ I went around to people and said, “Show me a trick! Show me so
 And I went up to a guy called Mike Day and I said, “Show me a three ball trick.” And he showed me the most amazing three-ball trick. Anyone who juggles three balls semi-seriously will know of this trick called “Mills’ Mess.” And I was stumped—I could not write down a description of “Mills’ Mess.” It was amazing. But that I know it really well, it’s not actually that complicated! But back then it was completely, mind-blowingly complex. 
 
 
-And there was no way to write it down! And we thought, “There must be ways of ways of writing down juggling tricks.” There are ways of writing down language, there are ways of writing down music, ways of writing down dance, actually, multiple ways of writing down dance, so there must be a way of writing down juggling tricks. And we looked through all the back issues of the juggling magazines we had—there are, actually, magazines published about juggling—we looked through all the back issues, and none of them had descriptions of juggling tricks. So we decided to invent a notation for juggling. Now this didn’t happen overnight—this took some considerable time--and our early attempts were very poor. They were inadequate to describe many of the tricks we thought a notation should be able to describe. And eventually we hit on a scheme that seemed to work. And we used it to write down loads of different juggling tricks that we knew. 
+And there was no way to write it down! And we thought, “There must be ways of ways of writing down juggling tricks.” There are ways of writing down language, there are ways of writing down music, ways of writing down dance, actually, multiple ways of writing down dance, so there must be a way of writing down juggling tricks. And we looked through all the back issues of the juggling magazines we had—there are, actually, magazines published about juggling—we looked through all the back issues, and none of them had descriptions of juggling tricks. So we decided to invent a notation for juggling. Now this didn’t happen overnight—this took some considerable time—and our early attempts were very poor. They were inadequate to describe many of the tricks we thought a notation should be able to describe. And eventually we hit on a scheme that seemed to work. And we used it to write down loads of different juggling tricks that we knew. 
 
 
 We discovered that if we arranged those tricks in just the right way, they fell into a pattern. There was an underlying, unsuspected structure. As long as you had the courage to leave gaps. And this goes back to things like the Periodic Table, when Mendeley was writing down all the elements—he realized that if you arranged them all according to function, then there were gaps, and that then predicted the existence of chemical elements. 
@@ -93,7 +93,7 @@ For an accessible introduction, see my talk at Strange Loop 2015.
 
 
 
-### bra-ket notation (Dirac notation)
+### Dirac's bra-ket notation
 [source](http://www.physics.umd.edu/courses/Phys374/fall04/files/DiracNotation.pdf) | _tags: math, physics, quantum mechanics, linear algebra, manipulation_
 
 
@@ -151,7 +151,7 @@ Outline of good notations
 * Einstein notation
 
 
-### “Structure and Interpretation of Classical Mechanics” by Gerald Sussman
+### _Structure and Interpretation of Classical Mechanics_ by Gerald Sussman
 
 [source](https://mitpress.mit.edu/sites/default/files/titles/content/sicm/book-Z-H-5.html) | _tags: math, physics, computer science, progrmaming languages, interpretation, explicitness, executability, bad notation, code as notation_
 
@@ -160,7 +160,7 @@ Classical mechanics is deceptively simple. It is surprisingly easy to get the ri
 
 ![Lagrange](https://mitpress.mit.edu/sites/default/files/titles/content/sicm/front-Z-G-1.gif)
 
-The Lagrangian L must be interpreted as a function of the position and velocity components q^i and ![](https://mitpress.mit.edu/sites/default/files/titles/content/sicm/front-Z-G-D-1.gif)^i, so that the partial derivatives make sense, but then in order for the time derivative d/dt to make sense solution paths must have been inserted into the partial derivatives of the Lagrangian to make functions of time. The traditional use of ambiguous notation is convenient in simple situations, but in more complicated situations it can be a serious handicap to clear reasoning. In order that the reasoning be clear and unambiguous, we have adopted a more precise mathematical notation. Our notation is functional and follows that of modern mathematical presentations.2 An introduction to our functional notation is in an appendix.
+The Lagrangian L must be interpreted as a function of the position and velocity components q^i and ![](https://mitpress.mit.edu/sites/default/files/titles/content/sicm/front-Z-G-D-1.gif)^i, so that the partial derivatives make sense, but then in order for the time derivative d/dt to make sense solution paths must have been inserted into the partial derivatives of the Lagrangian to make functions of time. The traditional use of ambiguous notation is convenient in simple situations, but in more complicated situations it can be a serious handicap to clear reasoning. In order that the reasoning be clear and unambiguous, we have adopted a more precise mathematical notation. Our notation is functional and follows that of modern mathematical presentations. An introduction to our functional notation is in an appendix.
 
 Computation also enters into the presentation of the mathematical ideas underlying mechanics. We require that our mathematical notations be explicit and precise enough that they can be interpreted automatically, as by a computer. As a consequence of this requirement the formulas and equations that appear in the text stand on their own. They have clear meaning, independent of the informal context. For example, we write Lagrange's equations in functional notation as follows:
 
@@ -235,7 +235,7 @@ Jijingi realized that, if he thought hard about it, he was now able to identify 
 [source](http://dss-edit.com/prof-anon/sound/library/Ong_orality_and_literacy.pdf) | _tags: writing, writing as technology, thought, memory_
 
 
-#### Chapter 4. Writing restructures consciousness
+#### Chapter 4: Writing restructures consciousness
 
 Most persons are surprised, and many distressed, to learn that essentially the same objections commonly urged today against computers were urged by Plato in the Phaedrus (274–7) and in the Seventh Letter against writing. Writing, Plato has Socrates say in the Phaedrus, is inhuman, pretending to establish outside the mind what in reality can be only in the mind. It is a thing, a manufactured product. The same of course is said of computers. Secondly, Plato’s Socrates urges, writing destroys memory. Those who use writing will become forgetful, relying on an external resource for what they lack in internal resources. Writing weakens the mind. Today, parents and others fear that pocket calculators provide an external resource for what ought to be the internal resource of memorized multiplication tables. Calculators weaken the mind, relieve it of the work that keeps it strong. Thirdly, a written text is basically unresponsive. If you ask a person to explain his or her statement, you can get an explanation; if you ask a text, you get back nothing except the same, often stupid, words which called for your question in the first place. In the modern critique of the computer, the same objection is put, ‘Garbage in, garbage out’. Fourthly, in keeping with the agonistic mentality of oral cultures, Plato’s Socrates also holds it against writing that the written word cannot defend itself as the natural spoken word can: real speech and thought always exist essentially in a context of give-and-take between real persons.Writing is passive, out of it, in an unreal, unnatural world. So are computers. (...)
 
