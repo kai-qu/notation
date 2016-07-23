@@ -22,6 +22,7 @@ This list focuses on notation as "a series or system of written symbols used to 
 * Chiang’s short story “[Story of Your Life](https://mathisgasser.files.wordpress.com/2014/12/ted-chiang_story-of-your-life_2000.pdf)” on notation restructuring thought temporally
 * Chiang’s article “[Bad Character](http://www.newyorker.com/magazine/2016/05/16/if-chinese-were-phonetic)” on Chinese characters/pictograms (a bad notation) vs. phonetic alphabets
 * Heyward's article ["How to Write a Dance"](http://www.theparisreview.org/blog/2015/02/04/how-to-write-a-dance/) on why dance notation remains unused
+* 3Blue1Brown's video ["Triangle of Power"](https://www.youtube.com/watch?v=sULa9Lc4pck) on a unified notation for power, root and logarithm
 * Missing: music notation and the cognitive effects of notation.
 
 
