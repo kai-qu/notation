@@ -153,7 +153,7 @@ Outline of good notations
 
 ### _Structure and Interpretation of Classical Mechanics_ by Gerald Sussman
 
-[source](https://mitpress.mit.edu/sites/default/files/titles/content/sicm/book-Z-H-5.html) | _tags: math, physics, computer science, progrmaming languages, interpretation, explicitness, executability, bad notation, code as notation_
+[source](https://mitpress.mit.edu/sites/default/files/titles/content/sicm/book-Z-H-5.html) | _tags: math, physics, computer science, programming languages, interpretation, explicitness, executability, bad notation, code as notation_
 
 
 Classical mechanics is deceptively simple. It is surprisingly easy to get the right answer with fallacious reasoning or without real understanding. Traditional mathematical notation contributes to this problem. Symbols have ambiguous meanings that depend on context, and often even change within a given context. For example, a fundamental result of mechanics is the Lagrange equations. In traditional notation the Lagrange equations are written
