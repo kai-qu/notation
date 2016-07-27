@@ -14,6 +14,7 @@ This list focuses on notation as "a series or system of written symbols used to 
 * Knuth's note on [Iverson’s convention and Stirling numbers](http://www.maa.org/sites/default/files/images/images/upload_library/22/Ford/knuth403-422.pdf)
 * An [overview](https://link.springer.com/chapter/10.1007%2F978-3-642-41422-0_2) of other good math notation (the equality sign, algebra, variables, dy/dx (debatable), Einstein notation)
 * Sussman’s _[Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/sites/default/files/titles/content/sicm/book-Z-H-5.html)_: a book on physics as function composition and code
+* Wolfram's [keynote](http://www.stephenwolfram.com/publications/mathematical-notation-past-future/) "Mathematical Notation: Past and Future" (specifically, empirical laws thereof)
 * Iverson's notes on [good mathematical notation design and APL](http://www.eecg.toronto.edu/~jzhu/csc326/readings/iverson.pdf)
 * Bret Victor's comments on [Roman numerals (a bad notation) vs. Arabic numerals](http://www.fastcodesign.com/1664508/ex-apple-designer-creates-teaching-ui-that-kills-math-using-data-viz)
 * Borges’ short story “[Funes the Memorious](http://www4.ncsu.edu/~jjsakon/FunestheMemorious.pdf)” on memory and number systems
@@ -176,6 +177,26 @@ That the mathematics is precise enough to be interpreted automatically allows ac
 
 When we started we expected that using this approach to formulate mechanics would be easy. We quickly learned that many things we thought we understood we did not in fact understand. Our requirement that our mathematical notations be explicit and precise enough that they can be interpreted automatically, as by a computer, is very effective in uncovering puns and flaws in reasoning. The resulting struggle to make the mathematics precise, yet clear and computationally effective, lasted far longer than we anticipated. We learned a great deal about both mechanics and computation by this process. We hope others, especially our competitors, will adopt these methods, which enhance understanding while slowing research.
 
+### "Mathematical Notation: Past and Future" by Stephen Wolfram (2000)
+[source](http://www.stephenwolfram.com/publications/mathematical-notation-past-future/) | _tags: math, physics, computer science, history, functions_
+
+#### Empirical laws for mathematical notations
+
+In the study of ordinary natural language there are various empirical historical laws that have been discovered. An example is Grimm's Law, which describes general historical shifts in consonants in Indo-European languages. I have been curious whether empirical historical laws can be found for mathematical notation.
+
+Dana Scott suggested one possibility: a trend towards the removal of explicit parameters.
+
+As one example, in the 1860s it was still typical for each component in a vector to be a separately-named variable. But then components started getting labelled with subscripts, as in a_i. And soon thereafter—particularly through the work of Gibbs—vectors began to be treated as single objects, denoted say by ![](http://www.stephenwolfram.com/publications/mathematical-notation-past-future/Images/revisedtalk.xml_gr_51.gif) or **a**.
+
+With tensors things are not so straightforward. Notation that avoids explicit subscripts is usually called "coordinate free." And such notation is common in pure mathematics. But in physics it is still often considered excessively abstract, and explicit subscripts are used instead.
+
+With functions, there have also been some trends to reduce the mention of explicit parameters. In pure mathematics, when functions are viewed as mappings, they are often referred to just by function names like f, without explicitly mentioning any parameters.
+
+But this tends to work well only when functions have just one parameter. With more than one parameter it is usually not clear how the flow of data associated with each parameter works.
+
+However, as early as the 1920s, it was pointed out that one could use so-called combinators to specify such data flow, without ever explicitly having to name parameters.
+
+Combinators have not been used in mainstream mathematics, but at various times they have been somewhat popular in the theory of computation, although their popularity has been reduced through being largely incompatible with the idea of data types.
 
 ### “Notation as a Tool of Thought” by Kenneth Iverson
 
