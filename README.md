@@ -2,6 +2,8 @@
 
 _By relieving the brain of all unnecessary work, a good notation sets it free to concentrate on more advanced problems, and in effect increases the mental power of the race._ —A. N. Whitehead
 
+_Programs must be written for people to read, and only incidentally for machines to execute._ —Harold Abelson
+
 I'm collecting quotes on interesting notations—both powerful ones and bad ones—and how they influence thought.
 
 This list focuses on notation as "a series or system of written symbols used to represent numbers, amounts, or elements in something such as music or mathematics." This is distinct from a language (computer or natural), interface, diagram, visualization, or tool, but may overlap with them. This list also focuses on examples from math, physics, computer science, and writing systems, though I'm looking to expand it to interesting examples of dance and music notation. General suggestions and pull requests are welcome. ([Get in touch](https://twitter.com/hypotext)!)
