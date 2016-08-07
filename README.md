@@ -138,14 +138,17 @@ I introduced these notations in the first edition of my first book [25], and by 
 Naturally I wondered how I could have been working with Stirling numbers for so many years without having been aware of such a basic fact. Surely it must have been known before? After several hours of searching in the library, I learned that identity (2.4) had indeed been known, but largely forgotten by succeeding generations of mathematicians, primarily because previous notations for Stirling numbers made it impossible to state the identity in such a memorable form. These investigations also turned up several things about the history of Stirling numbers that I had not previously realized.
 
 ### "Alternative notation for exponents, logs, and roots?" on MathOverflow
+[source](https://math.stackexchange.com/questions/30046/alternative-notation-for-exponents-logs-and-roots) | _tags: math, notation design_
 
-User _friedo_ asks:
+User **friedo** asks:
 
 ![](http://i.imgur.com/OuLIwEP.jpg)
 
-And user _alex.jordan_ answers:
+And user **alex.jordan** answers:
 
 ![](http://i.imgur.com/JLVkDI6.jpg)
+
+Note how visual properties of the notation enabled them to easily write down new identities.
 
 This answer was later adapted by _3Blue1Brown_ into the YouTube video "[The Triangle of Power](https://www.youtube.com/watch?v=sULa9Lc4pck)."
 
