@@ -12,6 +12,7 @@ This list focuses on notation as "a series or system of written symbols used to 
 * Conway’s paper on [powerful knot notation](http://www.maths.ed.ac.uk/~aar/papers/conway.pdf) for knot enumeration (more accessible: a [talk](https://www.youtube.com/watch?v=Wahc9Ocka1g) I gave)
 * [bra-ket notation](http://www.physics.umd.edu/courses/Phys374/fall04/files/DiracNotation.pdf) (Dirac notation) in quantum mechanics
 * Knuth's note on [Iverson’s convention and Stirling numbers](http://www.maa.org/sites/default/files/images/images/upload_library/22/Ford/knuth403-422.pdf)
+* MathOverflow thread on designing a [a unified, visual notation](https://math.stackexchange.com/questions/30046/alternative-notation-for-exponents-logs-and-roots) for exponents, logs, and roots
 * An [overview](https://link.springer.com/chapter/10.1007%2F978-3-642-41422-0_2) of other good math notation (the equality sign, algebra, variables, dy/dx (debatable), Einstein notation)
 * Sussman’s _[Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/sites/default/files/titles/content/sicm/book-Z-H-5.html)_: a book on physics as function composition and code
 * Wolfram's [keynote](http://www.stephenwolfram.com/publications/mathematical-notation-past-future/) "Mathematical Notation: Past and Future" (specifically, empirical laws thereof)
@@ -136,6 +137,19 @@ I introduced these notations in the first edition of my first book [25], and by 
 
 Naturally I wondered how I could have been working with Stirling numbers for so many years without having been aware of such a basic fact. Surely it must have been known before? After several hours of searching in the library, I learned that identity (2.4) had indeed been known, but largely forgotten by succeeding generations of mathematicians, primarily because previous notations for Stirling numbers made it impossible to state the identity in such a memorable form. These investigations also turned up several things about the history of Stirling numbers that I had not previously realized.
 
+### "Alternative notation for exponents, logs, and roots?" on MathOverflow
+
+User _friedo_ asks:
+
+![](http://i.imgur.com/OuLIwEP.jpg)
+
+And user _alex.jordan_ answers:
+
+![](http://i.imgur.com/JLVkDI6.jpg)
+
+This answer was later adapted by _3Blue1Brown_ into the YouTube video "[The Triangle of Power](https://www.youtube.com/watch?v=sULa9Lc4pck)."
+
+The entire thread is interesting as an example of collaborative notation design and debate.
 
 
 ### “Kenneth Iverson: Notation and Thinking” by Lipton and Regan
