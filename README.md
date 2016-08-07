@@ -24,6 +24,7 @@ This list focuses on notation as "a series or system of written symbols used to 
 * Chiang’s short story “[Story of Your Life](https://mathisgasser.files.wordpress.com/2014/12/ted-chiang_story-of-your-life_2000.pdf)” on notation restructuring thought temporally
 * Chiang’s article “[Bad Character](http://www.newyorker.com/magazine/2016/05/16/if-chinese-were-phonetic)” on Chinese characters/pictograms (a bad notation) vs. phonetic alphabets
 * Heyward's article ["How to Write a Dance"](http://www.theparisreview.org/blog/2015/02/04/how-to-write-a-dance/) on why dance notation remains unused
+* 3Blue1Brown's video ["Triangle of Power"](https://www.youtube.com/watch?v=sULa9Lc4pck) on a unified notation for power, root and logarithm
 * Missing: music notation and the cognitive effects of notation.
 
 
@@ -355,6 +356,22 @@ Today dance notation is arcane, and mostly inessential to the art of dance. Even
 
 In other words, the very idea of trying to hurry along in the wake of a dance and record its movements is inelegant. But Charlip’s dances show us the fluidity between the dancer and the scribe: they allow us to think of notation as a way to invent movement, rather than just try to preserve and petrify it. One of the chief features of his drawings is their accessibility—they’re like invitations to the audience to join in.
 
+### "Triangle of Power" by Alex Jordan and 3Blue1Brown
+
+[source](https://www.youtube.com/watch?v=sULa9Lc4pck) | _tags: math, unified notation_
+
+"Usually I don't think notation in math matters that much.
+Don't get me wrong, I enjoy a bad notation rent as much as the next guy and there are clearly a few simple changes to our conventions that could speed up learning for math students everywhere.
+But at the end of the day notation, good or bad - it's just not the point of math.
+Even the most carefully designed symbols and syntax will fail to capture the underlying visual that constitutes understanding.
+So I figure it's better to just spend time focusing on that underlying essence and let the symbols just be what they are in peace.
+But that said, when an intuitive notation actively stalls the gears of learning my disposition on the matter hardens up a little bit."
+
+"This way of writing things isn't just counter-intuitive, it's counter mathematical, since rather than making seemingly different facts look the same - which is what math should do - it takes three facts which should obviously be the same and makes them look artificially different."
+
+"My sincere hope is that students don't learn by symbolic patterns, but by substantive reasoning and re-derivation within their own heads.
+But the fact is most of us do first learn things by symbolic manipulation.
+So when there is an opportunity to significantly speed up that process we, should take it!"
 
 ### Music
 
