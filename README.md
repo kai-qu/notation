@@ -11,6 +11,7 @@ This list focuses on notation as "a series or system of written symbols used to 
 * Wright's talk on [inventing juggling notation](http://relprime.com/theunexpected/) (siteswap) and using it to discover new tricks
 * Conway’s paper on [powerful knot notation](http://www.maths.ed.ac.uk/~aar/papers/conway.pdf) for knot enumeration (more accessible: a [talk](https://www.youtube.com/watch?v=Wahc9Ocka1g) I gave)
 * [bra-ket notation](http://www.physics.umd.edu/courses/Phys374/fall04/files/DiracNotation.pdf) (Dirac notation) in quantum mechanics
+* Petre, Green, et al.'s paper ["Cognitive Dimensions of Notations: Design Tools for Cognitive Technology"](https://www.cl.cam.ac.uk/~afb21/publications/CT2001.pdf)
 * Knuth's note on [Iverson’s convention and Stirling numbers](http://www.maa.org/sites/default/files/images/images/upload_library/22/Ford/knuth403-422.pdf)
 * MathOverflow thread on designing a [unified, visual notation](https://math.stackexchange.com/questions/30046/alternative-notation-for-exponents-logs-and-roots) for exponents, logs, and roots
 * An [overview](https://link.springer.com/chapter/10.1007%2F978-3-642-41422-0_2) of other good math notation (the equality sign, algebra, variables, dy/dx (debatable), Einstein notation)
@@ -105,6 +106,18 @@ Notation can help us substantially in thinking about and manipulating symbolic r
 A similar situation pertains for dealing with linear spaces. In some cases, we might want to describe a system of coupled oscillators with the coordinates of the masses. In other cases, we might want to describe them in terms of how much of each normal mode is excited. This change corresponds to a change of coordinates in the linear space describing the state of the system. We would like to have a representation that describes the state without specifying the particular coordinates used to describe them. (…)
 
 The Dirac notation for states in a linear space is a way of representing a state in a linear space in a way that is free of the choice of coordinate but allows us to insert a particular choice of coordinates easily and to convert from one choice of coordinates to another conveniently. Furthermore, it is oriented in a way (bra vs. ket) that allows us to keep track of whether we need to take complex conjugates or not. This is particularly useful if we are in an inner-product space. To take the length of a complex vector, we have to multiply the vector by its complex conjugate — otherwise we won’t get a positive number. The orientation of the Dirac representation allows us to nicely represent the inner product in a way that keeps careful track of complex conjugation.
+
+
+### "Cognitive dimensions of notations: design tools for cognitive technology"
+[source](https://www.cl.cam.ac.uk/~afb21/publications/CT2001.pdf) | _tags: cognitive science, evaluation, synthesis_
+
+The authors compile a list of dimensions, including the following particularly interesting ones:
+
+* Creative ambiguity. The extent to which a notation encourages or enables the user to see something different when looking at it a second time (based on work by Hewson (1991), by Goldschmidt (1991), and by Fish and Scrivener (1990))
+* Free rides. New information is generated as a result of following the notational rules (based on work by Cheng (1998) and by Shimojima (1996))
+* Useful awkwardness. It’s not always good to be able to do things easily. Awkward interfaces can force the user to reflect on the task, with an overall gain in efficiency (based on discussions with Marian Petre, and work by O’Hara & Payne (1999))
+
+See the paper for the full list.
 
 
 ### “Two Notes on Notation” by Don Knuth
