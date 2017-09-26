@@ -19,6 +19,7 @@ This list focuses on notation as "a series or system of written symbols used to 
 * Wolfram's [keynote](http://www.stephenwolfram.com/publications/mathematical-notation-past-future/) "Mathematical Notation: Past and Future" (specifically, empirical laws thereof)
 * Iverson's notes on [good mathematical notation design and APL](http://www.eecg.toronto.edu/~jzhu/csc326/readings/iverson.pdf)
 * Bret Victor's comments on [Roman numerals (a bad notation) vs. Arabic numerals](http://www.fastcodesign.com/1664508/ex-apple-designer-creates-teaching-ui-that-kills-math-using-data-viz)
+* Gilles Fauconner's and Mark Turner's book [The Way We Think](http://www.cogsci.ucsd.edu/~nunez/COGS152_S12/TWWT_Ch1.pdf)
 * Borges’ short story “[Funes the Memorious](http://www4.ncsu.edu/~jjsakon/FunestheMemorious.pdf)” on memory and number systems
 * Chiang’s short story “[The Truth of Fact, the Truth of Feeling](http://subterraneanpress.com/magazine/fall_2013/the_truth_of_fact_the_truth_of_feeling_by_ted_chiang)” on oral culture vs. literacy
 * Ong’s book “[Orality and Literacy](http://dss-edit.com/prof-anon/sound/library/Ong_orality_and_literacy.pdf)” on how writing restructures consciousness; writing as a technology; development of writing
@@ -253,6 +254,18 @@ See also: **_A History of Mathematical Notations_ by Cajori**.
 
 I don't hate math per se; I hate its current representations. Have you ever tried multiplying Roman numerals? It's incredibly, ridiculously difficult. That's why, before the 14th century, everyone thought that multiplication was an incredibly difficult concept, and only for the mathematical elite. Then Arabic numerals came along, with their nice place values, and we discovered that even seven-year-olds can handle multiplication just fine. There was nothing difficult about the concept of multiplication—the problem was that numbers, at the time, had a bad user interface. 
 
+### "The Way We Think" by Gilles Fauconnier and Mark Turner
+
+[source](http://www.cogsci.ucsd.edu/~nunez/COGS152_S12/TWWT_Ch1.pdf) | tags: cognitive science, conceptual blending, mental spaces
+
+The development of formal systems to leverage human invention and insight has been a painful, centuries-long process. (...)
+In the twelfth century, the Hindu mathematician Bhaskara said, "The root of the root of the quotient of the greater irrational
+divided by the lesser one being increased by one; the sum being squared and multiplied by the smaller irrational quantity is the
+sum of the two surd roots." This we would now express in the form of an equation, using the much more systematically manageable set
+of formal symbols shown below. This equation by itself looks no less opaque than Bhaskara's description, but the notation immediately
+connects it to a large system of such equations in ways that make it easy to manipulate.
+
+![sqrt((sqrt(n/k)+1)^2 * k) = sqrt(k) + sqrt(n)](http://quicklatex.com/cache3/74/ql_921cefbda62f2dc5dd5465686646b574_l3.png)
 
 ### “Funes the Memorious” by Jorge Luis Borges
 [source](http://www4.ncsu.edu/~jjsakon/FunestheMemorious.pdf) | _tags: fiction, enumeration, number systems, math, thought, abstraction, memory_
@@ -365,19 +378,6 @@ Today dance notation is arcane, and mostly inessential to the art of dance. Even
 > A desire to avoid oblivion is the natural possession of any artist. It is intensified in the dancer, who is far more under the threat of time than others. The invention of systems to preserve dance-steps have, since the early eighteenth century, shared a startling similarity. All these books contain interesting prefatory remarks on the structure of dancing. The graphs presented vary in fullness from the mere bird’s-eye scratch-track of Feuillet, to the more musical and inclusive stenochoreography of Saint-Léon and Stepanov, but all are logically conceived and invitingly rendered, each equipped with provocative diagrams calculated to fascinate the speculative processes of a chess champion. And from a practical point of view, for work in determining the essential nature of old dances with any objective authority, they are all equally worthless. The systems, each of which may hold some slight improvement over its predecessor, are so difficult to decipher, even to initial mastery of their alphabet, that when students approach the problem of putting the letters together, or finally fitting the phrases to music, they feel triumphant if they can decipher even a single short solo enchaînement. An analysis of style is not attempted, and the problem of combining solo variations with a corps de ballet to provide a chart of an entire ballet movement reduces the complexity of the problem to the apoplectic.
 
 In other words, the very idea of trying to hurry along in the wake of a dance and record its movements is inelegant. But Charlip’s dances show us the fluidity between the dancer and the scribe: they allow us to think of notation as a way to invent movement, rather than just try to preserve and petrify it. One of the chief features of his drawings is their accessibility—they’re like invitations to the audience to join in.
-
-### "The Way We Think" by Gilles Fauconnier and Mark Turner
-
-[source](http://www.cogsci.ucsd.edu/~nunez/COGS152_S12/TWWT_Ch1.pdf) | tags: cognitive science, conceptual blending, mental spaces
-
-The development of formal systems to leverage human invention and insight has been a painful, centuries-long process. (...)
-In the twelfth century, the Hindu mathematician Bhaskara said, "The root of the root of the quotient of the greater irrational
-divided by the lesser one being increased by one; the sum being squared and multiplied by the smaller irrational quantity is the
-sum of the two surd roots." This we would now express in the form of an equation, using the much more systematically manageable set
-of formal symbols shown below. This equation by itself looks no less opaque than Bhaskara's description, but the notation immediately
-connects it to a large system of such equations in ways that make it easy to manipulate.
-
-![sqrt((sqrt(n/k)+1)^2 * k) = sqrt(k) + sqrt(n)](http://quicklatex.com/cache3/74/ql_921cefbda62f2dc5dd5465686646b574_l3.png)
 
 ### Music
 
