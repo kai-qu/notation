@@ -366,6 +366,18 @@ Today dance notation is arcane, and mostly inessential to the art of dance. Even
 
 In other words, the very idea of trying to hurry along in the wake of a dance and record its movements is inelegant. But Charlip’s dances show us the fluidity between the dancer and the scribe: they allow us to think of notation as a way to invent movement, rather than just try to preserve and petrify it. One of the chief features of his drawings is their accessibility—they’re like invitations to the audience to join in.
 
+### "The Way We Think" by Gilles Fauconnier and Mark Turner
+
+[source](http://www.cogsci.ucsd.edu/~nunez/COGS152_S12/TWWT_Ch1.pdf) | tags: cognitive science, conceptual blending, mental spaces
+
+The development of formal systems to leverage human invention and insight has been a painful, centuries-long process. (...)
+In the twelfth century, the Hindu mathematician Bhaskara said, "The root of the root of the quotient of the greater irrational
+divided by the lesser one being increased by one; the sum being squared and multiplied by the smaller irrational quantity is the
+sum of the two surd roots." This we would now express in the form of an equation, using the much more systematically manageable set
+of formal symbols shown below. This equation by itself looks no less opaque than Bhaskara's description, but the notation immediately
+connects it to a large system of such equations in ways that make it easy to manipulate.
+
+![sqrt((sqrt(n/k)+1)^2 * k) = sqrt(k) + sqrt(n)](http://quicklatex.com/cache3/74/ql_921cefbda62f2dc5dd5465686646b574_l3.png)
 
 ### Music
 
