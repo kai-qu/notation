@@ -10,6 +10,7 @@ This list focuses on notation as "a series or system of written symbols used to 
 
 * Wright's talk on [inventing juggling notation](http://relprime.com/theunexpected/) (siteswap) and using it to discover new tricks
 * Conway’s paper on [powerful knot notation](http://www.maths.ed.ac.uk/~aar/papers/conway.pdf) for knot enumeration (more accessible: a [talk](https://www.youtube.com/watch?v=Wahc9Ocka1g) I gave)
+* Channa Horwitz's work on [sonakinatography](http://www.anothermag.com/art-photography/8576/how-channa-horwitz-permeated-las-1960s-art-scene): visual notations for sound, motion, and sculpture
 * [bra-ket notation](http://www.physics.umd.edu/courses/Phys374/fall04/files/DiracNotation.pdf) (Dirac notation) in quantum mechanics
 * Petre, Green, et al.'s paper ["Cognitive Dimensions of Notations: Design Tools for Cognitive Technology"](https://www.cl.cam.ac.uk/~afb21/publications/CT2001.pdf)
 * Knuth's note on [Iverson’s convention and Stirling numbers](http://www.maa.org/sites/default/files/images/images/upload_library/22/Ford/knuth403-422.pdf)
@@ -33,6 +34,8 @@ This list focuses on notation as "a series or system of written symbols used to 
 A good notation may:
 * allow us to enumerate objects by serializing them
 * enable us to manipulate objects and perform operations on them more easily
+* look beautiful
+* lift the one-dimensional to the two-dimensional
 * allow searchability
 * encode powerful theorems 
 * make important properties obvious, or encode them 
@@ -95,6 +98,47 @@ In this paper, we describe a notation in terms of which it has been found possib
 For an accessible introduction, see my talk at Strange Loop 2015.
 ([video](https://www.youtube.com/watch?v=Wahc9Ocka1g), [materials](http://katherineye.com/post/129960474471/strange-loops-capturing-knots-with-powerful))
 
+
+### Channa Horwitz's sonakinetography 
+[source](http://www.anothermag.com/art-photography/8576/how-channa-horwitz-permeated-las-1960s-art-scene) | _tags: art, sculpture, 2D, visual, synesthesia_
+
+
+<img src="http://anotherimg.dazedgroup.netdna-cdn.com/1050/azure/another-prod/350/4/354121.jpg" width=600>
+
+_Sonakinatography Composition XVII, 1987-2004. Courtesy Estate of Channa Horwitz, Photography by Timo Ohler_
+
+
+
+**Who?** When an LA Times review of her work referred to contemporary artist Channa Horwitz as a housewife, it epitomised everything art historian Linda Nochlin wrestled with in her pioneering essay in 1971, _Why Have There Been No Great Women Artists?_ Despite studying with James Turrell and Allan Kaprow at CalArts in the 1970s, and exchanging letters with Sol LeWitt, Horwitz remained very much an outlier of the California art world until the last few years of her life.
+
+
+The Los Angeles native created hand-drawn algorithms combining basic principles and strict geometry to generate measured patterns, many of which resemble Aztec prints from a distance. Like her successful male colleagues, she was interested in bringing together colour, movement, sound and light, and introduced unbendable logic into the realm of west coast minimalism with her synaesthetic compositions. 
+
+
+Her breakthrough moment in fact grew out of a rejected proposal for an ambitious kinetic sculpture, as part of LACMA’s innovative _Art and Technology_ exhibition in 1968, which infamously featured no female artists. Diagrams she drew detailing the sculpture’s movement went on to inform her work for the next four decades.
+
+
+<img src="http://anotherimg.dazedgroup.netdna-cdn.com/786/azure/another-prod/350/4/354119.jpg" width=600>
+
+_Time Structure Composition III, Sonakinatography I, 1970. Channa Horwitz, Courtesy Estate of Channa Horwitz, Photography by Timo Ohler_
+
+
+
+**What?** Horwitz’s _Sonakinatography_, a colour-coordinated system of notations based solely on the numbers one through eight, was, in particular, an unlikely meeting between new age thought and mathematical reason. The series took shape as a collection of labour-intensive drawings, and as each number corresponds not only to a colour, but also to a duration or beat, these intricately checked and ruled works on paper can function as visual scores or instructions for music or dance. 
+
+
+Drawing was Horwitz’s preferred way of working, mostly on Mylar graph paper with ink and milk-based paint, and she spent the majority of her 50-year career expanding on _Sonakinatography_ – a term of her own invention combining the Greek words for sound, movement and notation – and another group of works, _Language Series_, first started several years earlier. (...)
+
+
+<img src="http://anotherimg.dazedgroup.netdna-cdn.com/786/azure/another-prod/350/4/354123.jpg" width=600>
+
+_Language Series I, 1964-2004. Channa Horwitz, Courtesy Collection Oehmen, Germany_
+
+
+**Why?** In 1964, casting a glance back over her time studying art at California State University, Horwitz moved on from the programme’s expressionist agenda and instead coined her rigorous, controlled visual language. By confining herself to a few simple rules, she rebelled through discipline and discovered the patterns and shapes that would become a lifelong fixture in her work. 
+
+
+“I have created a visual philosophy by working with deductive logic,” she wrote in _Art Flash_ in 1976. “I had a need to control and compose time as I had controlled and composed two-dimensional drawings and paintings.”
 
 
 ### Dirac's bra-ket notation
@@ -382,13 +426,13 @@ In other words, the very idea of trying to hurry along in the wake of a dance an
 ### Music
 
 
-Please suggest good sources or quotes!
+Please suggest good sources or quotes.
 
 
 ### Cognitive effects of notation
 
-Please suggest good sources or quotes!
+Please suggest good sources or quotes.
 
 ---
 
-Thanks for reading! 📝
+Thanks for reading.
