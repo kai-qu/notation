@@ -24,7 +24,7 @@ This list focuses on notation as "a series or system of written symbols used to 
 * Borges’ short story “[Funes the Memorious](http://www4.ncsu.edu/~jjsakon/FunestheMemorious.pdf)” on memory and number systems
 * Chiang’s short story “[The Truth of Fact, the Truth of Feeling](http://subterraneanpress.com/magazine/fall_2013/the_truth_of_fact_the_truth_of_feeling_by_ted_chiang)” on oral culture vs. literacy
 * Ong’s book “[Orality and Literacy](http://dss-edit.com/prof-anon/sound/library/Ong_orality_and_literacy.pdf)” on how writing restructures consciousness; writing as a technology; development of writing
-* Chiang’s short story “[Story of Your Life](https://mathisgasser.files.wordpress.com/2014/12/ted-chiang_story-of-your-life_2000.pdf)” on notation restructuring thought temporally
+* Chiang’s short story “[Story of Your Life](http://www.kameli.net/~raimu/rnd/ted-chiang-story-of-your-life-2000.pdf)” on notation restructuring thought temporally
 * Chiang’s article “[Bad Character](http://www.newyorker.com/magazine/2016/05/16/if-chinese-were-phonetic)” on Chinese characters/pictograms (a bad notation) vs. phonetic alphabets
 * Heyward's article ["How to Write a Dance"](http://www.theparisreview.org/blog/2015/02/04/how-to-write-a-dance/) on why dance notation remains unused
 * Missing: music notation and the cognitive effects of notation.
@@ -356,7 +356,7 @@ Many scripts across the world have been developed independently of one another (
 
 
 ### “Story of Your Life” by Ted Chiang
-[source](https://mathisgasser.files.wordpress.com/2014/12/ted-chiang_story-of-your-life_2000.pdf) | _tags: fiction, writing, language, linguistics, aesthetics_
+[source](http://www.kameli.net/~raimu/rnd/ted-chiang-story-of-your-life-2000.pdf) | _tags: fiction, writing, language, linguistics, aesthetics_
 
 _Spoilers follow._
 
