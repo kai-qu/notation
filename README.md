@@ -1,10 +1,6 @@
 # Notes on notation and thought
 
-_By relieving the brain of all unnecessary work, a good notation sets it free to concentrate on more advanced problems, and in effect increases the mental power of the race._ —A. N. Whitehead
-
-I'm collecting quotes on interesting notations—both powerful ones and bad ones—and how they influence thought.
-
-This list focuses on notation as "a series or system of written symbols used to represent numbers, amounts, or elements in something such as music or mathematics." This is distinct from a language (computer or natural), interface, diagram, visualization, or tool, but may overlap with them. This list also focuses on examples from math, physics, computer science, and writing systems, though I'm looking to expand it to interesting examples of dance and music notation. General suggestions and pull requests are welcome. ([Get in touch](https://twitter.com/hypotext)!)
+This syllabus collects references on interesting notations—both powerful ones and bad ones—and how they influence thought. It focuses on notation as "a series or system of written symbols used to represent numbers, amounts, or elements in something such as music or mathematics." A notation is distinct from a language (structured or natural), interface, diagram, or visualization, but may overlap with these categories.
 
 ## Overview 
 
@@ -27,11 +23,12 @@ This list focuses on notation as "a series or system of written symbols used to 
 * Chiang’s short story “[Story of Your Life](http://www.kameli.net/~raimu/rnd/ted-chiang-story-of-your-life-2000.pdf)” on notation restructuring thought temporally
 * Chiang’s article “[Bad Character](http://www.newyorker.com/magazine/2016/05/16/if-chinese-were-phonetic)” on Chinese characters/pictograms (a bad notation) vs. phonetic alphabets
 * Heyward's article ["How to Write a Dance"](http://www.theparisreview.org/blog/2015/02/04/how-to-write-a-dance/) on why dance notation remains unused
-* Missing: music notation and the cognitive effects of notation.
-
+* Conversation analysis notation (Jefferson transcription notation): [overview](https://www2.le.ac.uk/departments/psychology/research/child-mental-health/cara-1/faqs/jefferson), [examples](https://www.kcl.ac.uk/sspp/departments/education/research/Research-Centres/ldc/knowledge-transfer/DATA/part3.pdf)
 
 ## Themes
-A good notation may:
+
+A notation may:
+
 * allow us to enumerate objects by serializing them
 * enable us to manipulate objects and perform operations on them more easily
 * look beautiful
@@ -46,9 +43,7 @@ A good notation may:
 * be brief and expressive
 * avoid ambiguity, or introduce useful ambiguity.
 
-Negate these for bad notations. (Most notations are good and bad; they have advantages and disadvantages.)
-
-Consider: do all objects correspond to some notation? does every notation correspond to some object? uniquely?
+How are notations mapped to objects, how are objects mapped to notations, and what are the properties of that mapping? (_e.g._ one-to-one, many-to-one, one-to-many?)
 
 
 ## Quotes
@@ -423,16 +418,24 @@ Today dance notation is arcane, and mostly inessential to the art of dance. Even
 
 In other words, the very idea of trying to hurry along in the wake of a dance and record its movements is inelegant. But Charlip’s dances show us the fluidity between the dancer and the scribe: they allow us to think of notation as a way to invent movement, rather than just try to preserve and petrify it. One of the chief features of his drawings is their accessibility—they’re like invitations to the audience to join in.
 
-### Music
+### Conversation analysis notation (Jefferson transcription system)
 
+[overview](https://www2.le.ac.uk/departments/psychology/research/child-mental-health/cara-1/faqs/jefferson), [examples](https://www.kcl.ac.uk/sspp/departments/education/research/Research-Centres/ldc/knowledge-transfer/DATA/part3.pdf) | _tags: conversation, language_
 
-Please suggest good sources or quotes.
+Conversation analysts and many discourse analysts employ the **Jefferson system of transcription notation**. This is because in conversation analysis the transcripts are designed not only to capture **what** was said, but also the **way** in which it is said. Therefore the transcripts provide a detailed version of the complex nature of interaction.
 
+(...)
 
-### Cognitive effects of notation
+_Data example 8_
 
-Please suggest good sources or quotes.
+> M: you'll k [ eep the place ↑ really spotless ↑ ]
+> 
+> D:          [ i will i'll  make my friends    ]
+> 
+> M: [ and you'll  ] make
+> 
+> D: [ i'll make ]         friends
 
----
+_(Langford 1994: 93)_
 
-Thanks for reading.
+Both instances of simultaneous speech can be counted as overlap in this example. In the first case, at line 2, D says ' i will ' and seems to be anticipating M's instruction to keep the place spotless. In the second case, her ' I'll make' begins after an apparent turn transition point by M who appears to have finished her turn after 'spotless'.
