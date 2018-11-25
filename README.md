@@ -1,6 +1,6 @@
-# Notes on notation and thought
+# Notation and thought
 
-This syllabus collects references on interesting notations—both powerful ones and bad ones—and how they influence thought. It focuses on notation as "a series or system of written symbols used to represent numbers, amounts, or elements in something such as music or mathematics." A notation is distinct from a language (structured or natural), interface, diagram, or visualization, but may overlap with these categories.
+This syllabus examines the design of notation. We concern ourselves chiefly with one question: how does working in a particular notational system influence the ways that people think and create in it?
 
 ## Overview 
 
@@ -15,13 +15,13 @@ This syllabus collects references on interesting notations—both powerful ones 
 * Sussman’s _[Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/sites/default/files/titles/content/sicm/book-Z-H-5.html)_: a book on physics as function composition and code
 * Wolfram's [keynote](http://www.stephenwolfram.com/publications/mathematical-notation-past-future/) "Mathematical Notation: Past and Future" (specifically, empirical laws thereof)
 * Iverson's notes on [good mathematical notation design and APL](http://www.eecg.toronto.edu/~jzhu/csc326/readings/iverson.pdf)
-* Bret Victor's comments on [Roman numerals (a bad notation) vs. Arabic numerals](http://www.fastcodesign.com/1664508/ex-apple-designer-creates-teaching-ui-that-kills-math-using-data-viz)
+* Victor's comments on [Roman numerals (a bad notation) vs. Arabic numerals](http://www.fastcodesign.com/1664508/ex-apple-designer-creates-teaching-ui-that-kills-math-using-data-viz)
 * Gilles Fauconner's and Mark Turner's book [The Way We Think](http://www.cogsci.ucsd.edu/~nunez/COGS152_S12/TWWT_Ch1.pdf)
 * Borges’ short story “[Funes the Memorious](http://www4.ncsu.edu/~jjsakon/FunestheMemorious.pdf)” on memory and number systems
 * Chiang’s short story “[The Truth of Fact, the Truth of Feeling](http://subterraneanpress.com/magazine/fall_2013/the_truth_of_fact_the_truth_of_feeling_by_ted_chiang)” on oral culture vs. literacy
 * Ong’s book “[Orality and Literacy](http://dss-edit.com/prof-anon/sound/library/Ong_orality_and_literacy.pdf)” on how writing restructures consciousness; writing as a technology; development of writing
 * Chiang’s short story “[Story of Your Life](http://www.kameli.net/~raimu/rnd/ted-chiang-story-of-your-life-2000.pdf)” on notation restructuring thought temporally
-* Chiang’s article “[Bad Character](http://www.newyorker.com/magazine/2016/05/16/if-chinese-were-phonetic)” on Chinese characters/pictograms (a bad notation) vs. phonetic alphabets
+* Chiang’s article “[Bad Character](http://www.newyorker.com/magazine/2016/05/16/if-chinese-were-phonetic)” on Chinese characters/pictograms (a bad notation) vs. phonetic alphabets, and the [backlash](http://languagelog.ldc.upenn.edu/nll/?p=25876) to this article summarized on _Language Log_
 * Heyward's article ["How to Write a Dance"](http://www.theparisreview.org/blog/2015/02/04/how-to-write-a-dance/) on why dance notation remains unused
 * Conversation analysis notation (Jefferson transcription notation): [overview](https://www2.le.ac.uk/departments/psychology/research/child-mental-health/cara-1/faqs/jefferson), [examples](https://www.kcl.ac.uk/sspp/departments/education/research/Research-Centres/ldc/knowledge-transfer/DATA/part3.pdf)
 
@@ -50,7 +50,7 @@ How are notations mapped to objects, how are objects mapped to notations, and wh
 
 
 ### “Relatively Prime: The Unexpected” by Colin Wright
-[source](http://relprime.com/theunexpected/) | _tags: juggling, math, describing hard-to-describe objects, discovery_
+[source](http://relprime.com/theunexpected/)
 
 
 _(10:13-15:50)_ I went around to people and said, “Show me a trick! Show me something interesting to do with three, and people showed me things like “one over the top,” and “one-high,” and “one-high pirouette,” and “behind the back” and “under the leg” and so on. And I wrote all of these down. 
@@ -76,7 +76,7 @@ And of course, if you get this kind of thing happening, there’s going to be so
 
 ### See also: Wright's juggling talk
 
-[source](http://www.solipsys.co.uk/new/JugglingTalkSummary.html?JugglingTalk) | _tags: math, juggling_
+[source](http://www.solipsys.co.uk/new/JugglingTalkSummary.html?JugglingTalk)
 
 
 In 1985 there arose, simultaneously in three places around the world, by groups entirely unconnected and completely ignorant of each others' existence, a notation for juggling tricks. The notation was incomplete, since not every trick could be described, and like many notations, it was not immediately apparent to the uninitiated how to read it, how to use it, or whether it would be of any real use. For those who understood it, however, it was instantly obvious that it was right. Somehow the notation managed to capture the essence of those tricks it described, and the fact that the same notation arose in more than one place at once showed that its time had come, and it was, quite simply, the notation.
@@ -84,7 +84,7 @@ In 1985 there arose, simultaneously in three places around the world, by groups 
 
 
 ### "An enumeration of knots and links, and some of their algebraic properties" by John Conway
-[source](http://www.maths.ed.ac.uk/~aar/papers/conway.pdf) | _tags: knots, math, describing hard-to-describe objects_
+[source](http://www.maths.ed.ac.uk/~aar/papers/conway.pdf)
 
 
 In this paper, we describe a notation in terms of which it has been found possible to list (by hand) all knots of 11 crossings or less, and all links of 10 crossings or less, and we consider some properties of their algebraic invariants whose discovery was a consequence of this notation. The enumeration process is eminently suitable for machine computation, and should then handle knots and links of 12 or 13 crossings quite readily. Recent attempts at computer enumeration have proved unsatisfactory mainly because of the lack of a suitable notation… Little tells us that the enumeration of the 54 knots of [6] took him 6 years—from 1893 to 1899—the notation we shall soon describe made this just one afternoon’s work!
@@ -95,7 +95,7 @@ For an accessible introduction, see my talk at Strange Loop 2015.
 
 
 ### Channa Horwitz's sonakinetography 
-[source](http://www.anothermag.com/art-photography/8576/how-channa-horwitz-permeated-las-1960s-art-scene) | _tags: art, sculpture, 2D, visual, synesthesia_
+[source](http://www.anothermag.com/art-photography/8576/how-channa-horwitz-permeated-las-1960s-art-scene)
 
 
 <img src="http://anotherimg.dazedgroup.netdna-cdn.com/1050/azure/another-prod/350/4/354121.jpg" width=600>
@@ -137,7 +137,7 @@ _Language Series I, 1964-2004. Channa Horwitz, Courtesy Collection Oehmen, Germa
 
 
 ### Dirac's bra-ket notation
-[source](http://www.physics.umd.edu/courses/Phys374/fall04/files/DiracNotation.pdf) | _tags: math, physics, quantum mechanics, linear algebra, manipulation_
+[source](http://www.physics.umd.edu/courses/Phys374/fall04/files/DiracNotation.pdf)
 
 
 Notation can help us substantially in thinking about and manipulating symbolic representations meant to describe complex physical phenomena. The brain’s working memory can only manipulate a small number of ideas at once (“7±2”). We handle complex ideas by “chunking” — binding together many things and manipulating them as a single object. Another way we extend our range is by storing information outside of our brains temporarily and manipulating external objects or symbols, like an abacus or equations written on a piece of paper. (…)
@@ -149,7 +149,7 @@ The Dirac notation for states in a linear space is a way of representing a state
 
 
 ### "Cognitive dimensions of notations: design tools for cognitive technology"
-[source](https://www.cl.cam.ac.uk/~afb21/publications/CT2001.pdf) | _tags: cognitive science, evaluation, synthesis_
+[source](https://www.cl.cam.ac.uk/~afb21/publications/CT2001.pdf)
 
 The authors compile a list of dimensions, including the following particularly interesting ones:
 
@@ -161,7 +161,7 @@ See the paper for the full list.
 
 
 ### “Two Notes on Notation” by Don Knuth
-[source](http://www.maa.org/sites/default/files/images/images/upload_library/22/Ford/knuth403-422.pdf) | _tags: math, properties_
+[source](http://www.maa.org/sites/default/files/images/images/upload_library/22/Ford/knuth403-422.pdf) 
 
 _Note: read the original document for proper math typesetting._
 
@@ -191,7 +191,7 @@ I introduced these notations in the first edition of my first book [25], and by 
 Naturally I wondered how I could have been working with Stirling numbers for so many years without having been aware of such a basic fact. Surely it must have been known before? After several hours of searching in the library, I learned that identity (2.4) had indeed been known, but largely forgotten by succeeding generations of mathematicians, primarily because previous notations for Stirling numbers made it impossible to state the identity in such a memorable form. These investigations also turned up several things about the history of Stirling numbers that I had not previously realized.
 
 ### "Alternative notation for exponents, logs, and roots?" on MathOverflow
-[source](https://math.stackexchange.com/questions/30046/alternative-notation-for-exponents-logs-and-roots) | _tags: math, notation design_
+[source](https://math.stackexchange.com/questions/30046/alternative-notation-for-exponents-logs-and-roots)
 
 User **friedo** asks:
 
@@ -207,7 +207,7 @@ The answer above was later adapted by **3Blue1Brown** into the video "[The Trian
 
 
 ### “Kenneth Iverson: Notation and Thinking” by Lipton and Regan
-[source](https://link.springer.com/chapter/10.1007%2F978-3-642-41422-0_2) (available free online too) | _tags: math, physics_
+[source](https://link.springer.com/chapter/10.1007%2F978-3-642-41422-0_2) (available free online too)
 
 
 Outline of good notations
@@ -222,7 +222,7 @@ Outline of good notations
 
 ### _Structure and Interpretation of Classical Mechanics_ by Gerald Sussman
 
-[source](https://mitpress.mit.edu/sites/default/files/titles/content/sicm/book-Z-H-5.html) | _tags: math, physics, computer science, programming languages, interpretation, explicitness, executability, bad notation, code as notation_
+[source](https://mitpress.mit.edu/sites/default/files/titles/content/sicm/book-Z-H-5.html)
 
 
 Classical mechanics is deceptively simple. It is surprisingly easy to get the right answer with fallacious reasoning or without real understanding. Traditional mathematical notation contributes to this problem. Symbols have ambiguous meanings that depend on context, and often even change within a given context. For example, a fundamental result of mechanics is the Lagrange equations. In traditional notation the Lagrange equations are written
@@ -246,7 +246,7 @@ That the mathematics is precise enough to be interpreted automatically allows ac
 When we started we expected that using this approach to formulate mechanics would be easy. We quickly learned that many things we thought we understood we did not in fact understand. Our requirement that our mathematical notations be explicit and precise enough that they can be interpreted automatically, as by a computer, is very effective in uncovering puns and flaws in reasoning. The resulting struggle to make the mathematics precise, yet clear and computationally effective, lasted far longer than we anticipated. We learned a great deal about both mechanics and computation by this process. We hope others, especially our competitors, will adopt these methods, which enhance understanding while slowing research.
 
 ### "Mathematical Notation: Past and Future" by Stephen Wolfram (2000)
-[source](http://www.stephenwolfram.com/publications/mathematical-notation-past-future/) | _tags: math, physics, computer science, history, functions_
+[source](http://www.stephenwolfram.com/publications/mathematical-notation-past-future/)
 
 #### Empirical laws for mathematical notations
 
@@ -268,7 +268,7 @@ Combinators have not been used in mainstream mathematics, but at various times t
 
 ### “Notation as a Tool of Thought” by Kenneth Iverson
 
-[source](http://www.eecg.toronto.edu/~jzhu/csc326/readings/iverson.pdf) | _tags: math, computer science, programming languages, notation design_
+[source](http://www.eecg.toronto.edu/~jzhu/csc326/readings/iverson.pdf)
 
 The quantity of meaning compressed into small space by algebraic signs, is another circumstance that facilitates the reasonings we are accustomed to carry on by their aid. —_Charles Babbage_
 
@@ -289,13 +289,13 @@ See also: **_A History of Mathematical Notations_ by Cajori**.
 
 ### Bret Victor (after Alan Kay) on Roman numerals
 
-[source](http://www.fastcodesign.com/1664508/ex-apple-designer-creates-teaching-ui-that-kills-math-using-data-viz) | _tags: math, number systems, bad notations_
+[source](http://www.fastcodesign.com/1664508/ex-apple-designer-creates-teaching-ui-that-kills-math-using-data-viz)
 
 I don't hate math per se; I hate its current representations. Have you ever tried multiplying Roman numerals? It's incredibly, ridiculously difficult. That's why, before the 14th century, everyone thought that multiplication was an incredibly difficult concept, and only for the mathematical elite. Then Arabic numerals came along, with their nice place values, and we discovered that even seven-year-olds can handle multiplication just fine. There was nothing difficult about the concept of multiplication—the problem was that numbers, at the time, had a bad user interface. 
 
 ### "The Way We Think" by Gilles Fauconnier and Mark Turner
 
-[source](http://www.cogsci.ucsd.edu/~nunez/COGS152_S12/TWWT_Ch1.pdf) | tags: cognitive science, conceptual blending, mental spaces
+[source](http://www.cogsci.ucsd.edu/~nunez/COGS152_S12/TWWT_Ch1.pdf)
 
 The development of formal systems to leverage human invention and insight has been a painful, centuries-long process. (...)
 In the twelfth century, the Hindu mathematician Bhaskara said, "The root of the root of the quotient of the greater irrational
@@ -307,7 +307,7 @@ connects it to a large system of such equations in ways that make it easy to man
 ![sqrt((sqrt(n/k)+1)^2 * k) = sqrt(k) + sqrt(n)](http://quicklatex.com/cache3/74/ql_921cefbda62f2dc5dd5465686646b574_l3.png)
 
 ### “Funes the Memorious” by Jorge Luis Borges
-[source](http://www4.ncsu.edu/~jjsakon/FunestheMemorious.pdf) | _tags: fiction, enumeration, number systems, math, thought, abstraction, memory_
+[source](http://www4.ncsu.edu/~jjsakon/FunestheMemorious.pdf)
 
 _Spoilers follow._
 
@@ -322,7 +322,7 @@ Without effort, he had learned English, French, Portuguese, Latin. I suspect, ne
 
 ### “The Truth of Fact, the Truth of Feeling” by Ted Chiang
 
-[source](http://subterraneanpress.com/magazine/fall_2013/the_truth_of_fact_the_truth_of_feeling_by_ted_chiang) | _tags: fiction, language, writing, writing as technology, thought, memory_
+[source](http://subterraneanpress.com/magazine/fall_2013/the_truth_of_fact_the_truth_of_feeling_by_ted_chiang)
 
 _Spoilers follow._
 
@@ -333,7 +333,7 @@ Jijingi realized that, if he thought hard about it, he was now able to identify 
 
 ### “Orality and Literacy” by Walter J. Ong
 
-[source](http://dss-edit.com/prof-anon/sound/library/Ong_orality_and_literacy.pdf) | _tags: writing, writing as technology, thought, memory_
+[source](http://dss-edit.com/prof-anon/sound/library/Ong_orality_and_literacy.pdf) 
 
 
 #### Chapter 4: Writing restructures consciousness
@@ -351,7 +351,7 @@ Many scripts across the world have been developed independently of one another (
 
 
 ### “Story of Your Life” by Ted Chiang
-[source](http://www.kameli.net/~raimu/rnd/ted-chiang-story-of-your-life-2000.pdf) | _tags: fiction, writing, language, linguistics, aesthetics_
+[source](http://www.kameli.net/~raimu/rnd/ted-chiang-story-of-your-life-2000.pdf)
 
 _Spoilers follow._
 
@@ -396,7 +396,7 @@ And now that Heptapod B had introduced me to a simultaneous mode of consciousnes
 
 
 ### “Bad Character” by Ted Chiang
-[source](http://www.newyorker.com/magazine/2016/05/16/if-chinese-were-phonetic) | _tags: writing, language, linguistics, bad notation_
+[source](http://www.newyorker.com/magazine/2016/05/16/if-chinese-were-phonetic)
 
 I’m a fan of literacy, and Chinese characters have been an obstacle to literacy for millennia. With a phonetic writing system like an alphabet or a syllabary, you need only learn a few dozen symbols and you can read most everything printed in a newspaper. With Chinese characters, you have to learn three thousand. And writing is even more difficult than reading; when you can’t use pronunciation as an aid to spelling, you have to rely on pure memorization. The cognitive demands are so great that even highly educated Chinese speakers regularly forget how to write characters they haven’t used recently.
 
@@ -408,9 +408,11 @@ One of the virtues claimed for Chinese characters is that they make it easy to r
 
 Chinese culture is notorious for the value it places on tradition. It would be reductive to claim that this is entirely a result of the readability of classical Chinese, but I think it’s reasonable to propose that there is some influence. Imagine a world in which written English had changed so little that works of “Beowulf” ’s era remained continuously readable for the past twelve hundred years. I could easily believe that, in such a world, contemporary English culture would retain more Anglo-Saxon values than it does now. So it seems plausible that in this counterfactual history I’m positing, a world in which the intelligibility of Chinese texts erodes under the currents of phonological change, Chinese culture might not be so rooted in the past. Perhaps China would have evolved more throughout the millennia and exhibited less resistance to new ideas. Perhaps it would have been better equipped to deal with modernity in ways completely unrelated to an improved ability to use telegraphy or computers.
 
+See also the summary of the [backlash](http://languagelog.ldc.upenn.edu/nll/?p=25876) to this article on _Language Log_.
+
 ### "How to Write a Dance" by Anna Heyward
 
-[source](http://www.theparisreview.org/blog/2015/02/04/how-to-write-a-dance/) | _tags: dance, unused notation_
+[source](http://www.theparisreview.org/blog/2015/02/04/how-to-write-a-dance/) 
 
 Today dance notation is arcane, and mostly inessential to the art of dance. Even the two most prevalent systems, Laban and Benesh, don’t enjoy wide literacy among dancers. Lincoln Kirstein, of the New York City Ballet, wrote in his Ballet Alphabet,
 
@@ -420,7 +422,7 @@ In other words, the very idea of trying to hurry along in the wake of a dance an
 
 ### Conversation analysis notation (Jefferson transcription system)
 
-[overview](https://www2.le.ac.uk/departments/psychology/research/child-mental-health/cara-1/faqs/jefferson), [examples](https://www.kcl.ac.uk/sspp/departments/education/research/Research-Centres/ldc/knowledge-transfer/DATA/part3.pdf) | _tags: conversation, language_
+[overview](https://www2.le.ac.uk/departments/psychology/research/child-mental-health/cara-1/faqs/jefferson), [examples](https://www.kcl.ac.uk/sspp/departments/education/research/Research-Centres/ldc/knowledge-transfer/DATA/part3.pdf)
 
 Conversation analysts and many discourse analysts employ the **Jefferson system of transcription notation**. This is because in conversation analysis the transcripts are designed not only to capture **what** was said, but also the **way** in which it is said. Therefore the transcripts provide a detailed version of the complex nature of interaction.
 
