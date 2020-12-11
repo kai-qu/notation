@@ -19,7 +19,7 @@ This syllabus examines the design of notation. We concern ourselves chiefly with
 * Gilles Fauconner's and Mark Turner's book [The Way We Think](http://www.cogsci.ucsd.edu/~nunez/COGS152_S12/TWWT_Ch1.pdf)
 * Borges’ short story “[Funes the Memorious](http://www4.ncsu.edu/~jjsakon/FunestheMemorious.pdf)” on memory and number systems
 * Chiang’s short story “[The Truth of Fact, the Truth of Feeling](http://subterraneanpress.com/magazine/fall_2013/the_truth_of_fact_the_truth_of_feeling_by_ted_chiang)” on oral culture vs. literacy
-* Ong’s book “[Orality and Literacy](http://dss-edit.com/prof-anon/sound/library/Ong_orality_and_literacy.pdf)” on how writing restructures consciousness; writing as a technology; development of writing
+* Ong’s book “[Orality and Literacy](https://monoskop.org/images/d/db/Ong_Walter_J_Orality_and_Literacy_2nd_ed.pdf)” on how writing restructures consciousness; writing as a technology; development of writing
 * Chiang’s short story “[Story of Your Life](http://www.kameli.net/~raimu/rnd/ted-chiang-story-of-your-life-2000.pdf)” on notation restructuring thought temporally
 * Chiang’s article “[Bad Character](http://www.newyorker.com/magazine/2016/05/16/if-chinese-were-phonetic)” on Chinese characters/pictograms (a bad notation) vs. phonetic alphabets, and the [backlash](http://languagelog.ldc.upenn.edu/nll/?p=25876) to this article summarized on _Language Log_
 * Heyward's article ["How to Write a Dance"](http://www.theparisreview.org/blog/2015/02/04/how-to-write-a-dance/) on why dance notation remains unused
